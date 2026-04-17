@@ -1,132 +1,99 @@
-Ce document de synthèse analyse les interrelations complexes entre la psychologie et la transition écologique et sociétale (TEDS). Il explore comment la discipline permet de comprendre les comportements humains face aux changements environnementaux et propose des leviers pour favoriser une mise en action concrète, à l'attention des enseignants-chercheurs en psychologie.
+La psychologie s'établit comme une discipline fondamentale pour comprendre et accompagner la transition écologique en ce qu'elle permet de passer des connaissances aux actions. La discipline intervient à plusieurs niveaux : elle analyse la perception des risques, décrypte les rapports aux différents espaces (du personnel au planétaire), régule les émotions comme l'éco-anxiété ou la solastalgie, et identifie les freins ainsi que les leviers psychologiques au changement.<sup>[[1]](https://www.uved.fr/fileadmin/user_upload/Documents/pdf/Fiches/Fiche_Psychologie_et_TEDS.pdf)</sup> La psychologie ne se contente plus d'étudier l'individu de manière isolée, mais explore désormais les processus sociocognitifs qui transforment la connaissance scientifique en connaissance sociale capable de diriger l'action.
 
-### Synthèse : le rôle pivot de la psychologie dans la transition
+Les points clés de cette analyse révèlent que l'apport d'informations et de connaissances est insuffisant pour générer un changement de comportement. Le phénomène d'acrasie, qui désigne le fait d'agir contre son propre jugement, est central. Les recherches montrent que la vulnérabilité cognitive face aux changements globaux est particulièrement marquée dans les zones urbaines, où prédomine une pensée analytique et linéaire. Pour dépasser ces blocages, les leviers résident dans la psychologie de l'engagement, la mobilisation des émotions, et une éducation renouvelée favorisant la pensée systémique et la reconnexion au vivant.
 
-La psychologie se positionne comme une discipline fondamentale pour accompagner la transition écologique en jetant un pont entre les connaissances scientifiques et l'action individuelle ou collective. Son rôle est multidimensionnel : elle analyse la perception des risques, aide à réguler les émotions liées aux crises (éco-anxiété, solastalgie), identifie les freins psychologiques et mobilise des leviers d'action tels que les normes sociales et l'engagement.
+### Les fondements de l'interaction individu-environnement
 
-#### Points clés à retenir
+La transition écologique n'est pas seulement un contexte pour la psychologie, mais elle devient un objet d'étude à part entière qui questionne notre rapport au vivant et notre place dans l'écosystème global. Cette discipline permet de mettre en évidence la vulnérabilité psychologique et sociale des personnes face à la rapidité du changement.<sup>[[1]](https://www.uved.fr/fileadmin/user_upload/Documents/pdf/Fiches/Fiche_Psychologie_et_TEDS.pdf)</sup> Elle soutient la « durabilité psychologique » en accompagnant les individus pour qu'ils demeurent actifs et constructifs malgré l'angoisse environnementale.
 
-- L'insuffisance du savoir : La simple transmission de connaissances ne suffit pas à modifier les comportements (phénomène d'acrasie).
-- La vulnérabilité cognitive : Les populations urbaines, souvent limitées par une pensée analytique et linéaire, peinent à saisir la complexité systémique du changement climatique.
-- Le levier de l'engagement : Le changement pérenne passe par l'action directe et le sentiment de liberté, plutôt que par la seule conviction intellectuelle ou la contrainte.
-- L'intégration émotionnelle : La formation à l'écologie doit intégrer la dimension sensorielle et émotionnelle pour transformer l'anxiété en résilience active.
+L'étude des processus sociocognitifs est ici essentielle pour comprendre comment transformer le savoir scientifique en sens commun. Les travaux d'Annamaria Lammel indiquent que la cognition humaine, bien qu'ayant permis une adaptation historique, se heurte aujourd'hui à la vitesse de l'accélération actuelle.<sup>[[2]](https://www.uved.fr/fiche/ressource/changement-climatique-et-cognition-humaine)</sup> Cette vulnérabilité cognitive est influencée par l'environnement, la culture, les modèles de comportement et le style cognitif dominant d'une société.
 
-### 1. Apports et impacts de la psychologie sur la TEDS
+### Analyse des freins au changement de comportement
 
-La psychologie n'est plus seulement un outil d'analyse, mais devient une partie intégrante du contexte d'étude, interrogeant la place de l'humain dans l'écosystème global.
+Le hiatus entre la connaissance de la crise écologique et l'absence d'action concrète est l'un des défis majeurs identifiés dans les sources.
 
-#### Domaines d'intervention de la discipline
+#### Le Phénomène de l'Acrasie et le Modèle de Stern
+
+Sarah Marniesse et Jeanne Henin explorent le concept d'acrasie : « comment est-il possible à la fois de juger que A est la meilleure action à faire et de faire cependant autre chose que A ? ».<sup>[[3]](https://www.uved.fr/fiche/ressource/apprendre-autrement-la-protection-de-la-biodiversite)</sup> Pour répondre à cette question, elles s'appuient sur le modèle de Paul Stern (2000) qui identifie quatre facteurs déterminants du comportement :
 
 Le tableau suivant synthétise les principaux apports de la psychologie à la transition écologique :
 
-| Domaine d'action | Objectifs spécifiques |
+| Facteur | Description |
 | --- | --- |
-| **Perception et représentations** | Comprendre comment les risques environnementaux sont perçus et représentés. |
-| **Rapports à l'espace** | Analyser les liens avec les espaces personnels, domestiques, territoriaux et planétaires. |
-| **Régulation émotionnelle** | Gérer l'éco-anxiété, la solastalgie et les sentiments de perte ou d'impuissance. |
-| **Identification des freins** | Mettre en lumière les blocages cognitifs, les pratiques et les représentations sociales. |
-| **Leviers d'action** | Mobiliser l'engagement, les processus identitaires et les "nudges verts". |
-| **Soutien à la durabilité** | Accompagner les individus pour qu'ils restent constructifs malgré l'angoisse. |
+| **Croyances et valeurs** | Ce que l'individu sait ou croit savoir, incluant son rapport naturaliste à la nature (l'homme séparé de la nature). |
+| **Facteurs extérieurs** | Les incitations, les normes sociales et la pression des lobbies de consommation. |
+| **Limites personnelles** | Les capacités de l'individu et sa confiance en soi. |
+| **Comportements routiniers** | Ce qui régit l'action de manière inconsciente. |
 
-#### Impact sur la discipline
+Ce modèle démontre que le savoir pur ne tient qu'une place minime dans la décision d'agir.
 
-La TEDS conduit la psychologie à étudier comment la connaissance scientifique se transforme en connaissance sociale (sens commun) dirigeant l'action. Elle questionne plus profondément le rapport au vivant, particulièrement chez la jeunesse occidentale, fortement affectée par l'incertitude face au futur.
+#### Les biais cognitifs et illusions sociales
 
-### 2. Analyse des freins psychologiques et cognitifs
+Le changement de comportement est entravé par des mécanismes cérébraux inconscients. Elsa Causse souligne que les campagnes de prévention échouent souvent à cause de la « conformité supérieure de soi » (penser que l'on fait mieux que les autres) et de l'« optimisme comparatif » (croire que les risques sont moindres pour soi que pour autrui).<sup>[[4]](https://www.uved.fr/fiche/ressource/la-consommation-responsable-obstacles-et-leviers-daction)</sup> Ces biais amènent les individus à ignorer les messages préventifs, estimant qu'ils ne leur sont pas destinés. De plus, le biais de confirmation pousse à se focaliser sur les informations confortant nos croyances préexistantes, évitant ainsi les données perturbantes liées à la crise écologique.
 
-L'un des défis majeurs identifiés est l'absence de corrélation directe entre la connaissance du danger et l'action corrective.
+### La vulnérabilité cognitive : une approche géographique et culturelle
 
-#### Le phénomène de l'acrasie
+Les travaux d'Annamaria Lammel révèlent que la perception des risques varie considérablement selon l'environnement de vie. Ses recherches sur le terrain montrent des disparités frappantes :
 
-L'acrasie désigne le fait d'agir à l'encontre de son propre jugement. Malgré l'abondance de données scientifiques et de messages alarmistes (ex: "Il sera bientôt trop tard"), l'individu peut "faire l'autruche". Ce paradoxe s'explique par le fait que l'humain ne croit pas toujours ce qu'il sait.
+- **En milieu urbain (Paris) :** La perception du risque est simple, linéaire et jugée réversible. Les habitants des grandes villes présentent la plus forte vulnérabilité cognitive car leur pensée analytique isole les phénomènes, rendant complexe la compréhension d'un système chaotique.
+- **En milieu montagneux (Alpes) :** Les habitants possèdent une évaluation du risque multiple et itérative, ajustant constamment leur exposition en fonction des événements.
+- **En milieux traditionnels (Nouvelle-Calédonie, Guyane)** : On observe une vision systémique capable de relier les dimensions spatiales et temporelles et de prendre en compte les interactions entre biosphère, atmosphère et hydrosphère.
 
-#### Modèles explicatifs des comportements
+Cette étude souligne la nécessité de développer une « cognition complexe » incluant l'émotion et l'intention pour favoriser des processus mentaux capables de traiter des informations simultanées.
 
-- Le modèle de Stern (2000) : Il identifie quatre facteurs déterminants :
-  1. Croyances et valeurs : Ce que l'on sait ou croit (ex: vision cartésienne de l'homme maître de la nature).
-  2. Facteurs extérieurs : Incitations, normes sociales et pression des lobbies.
-  3. Limites personnelles : Capacités et confiance en soi.
-  4. Habitudes : Comportements routiniers inconscients.
-- Le circuit de la récompense : Les neurosciences révèlent que le cerveau est programmé pour la survie à court terme. Le système de récompense privilégie souvent les plaisirs immédiats au détriment des actions de long terme nécessaires au bien commun.
+### Leviers d'action et psychologie de l'engagement
 
-#### Les biais et illusions cognitives
+Pour dépasser les résistances, la psychologie sociale propose de passer directement par le comportement plutôt que par la simple modification des idées.
 
-Les biais entravent l'efficacité des campagnes de prévention en poussant les individus à ignorer les messages :
+#### La psychologie de l'engagement
 
-- Biais de confirmation : Focalisation sur les informations qui valident nos croyances préexistantes.
-- Conformité supérieure de soi : Tendance à croire que l'on protège mieux l'environnement que la moyenne.
-- Optimisme comparatif : Croyance que les risques sont moindres pour soi que pour autrui.
-- Distance spatio-temporelle : Les conséquences du changement climatique sont perçues comme lointaines ou diffuses, empêchant tout feedback direct sur l'action individuelle.
+Elsa Causse explique que l'engagement repose sur le lien fort entre un individu et ses actes antérieurs. Pour instaurer une cohérence, un individu ayant produit un acte pro-environnemental minime sera enclin à poursuivre dans cette voie. L'efficacité de ce levier dépend de quatre conditions : le sentiment de liberté, l'irrévocabilité de l'acte, l'absence de contrainte extérieure manifeste, et le caractère public ou répété du comportement.
 
-### 3. Vulnérabilité cognitive et diversité culturelle
+#### Motivation et feedback
 
-Les travaux d'Annamaria Lammel soulignent que la capacité d'adaptation dépend de la manière dont la cognition est influencée par l'environnement et la culture.
+L'absence de feedback direct est un frein majeur identifié par Elsa Causse. Dans le domaine des déchets, les conséquences sont à long terme et non observables immédiatement par l'individu. Pour pallier cela, il est nécessaire de communiquer en amont sur le cycle de vie des produits dès l'achat, et non seulement au moment du rejet. Le levier de la « commodité » est également crucial : un nouveau comportement doit être perçu comme facile à mettre en œuvre d'un point de vue subjectif pour être adopté durablement.
 
-- Milieu urbain : Les citadins présentent souvent une vulnérabilité cognitive accrue. Leur pensée est analytique, linéaire et réversible ("si on élimine la cause, le problème disparaît"). Ils peinent à percevoir les décalages entre cause et effet.
-- Visions systémiques : À l'inverse, des populations (comme les Canaques en Nouvelle-Calédonie ou les Amérindiens en Guyane) possèdent une vision systémique. Ils relient les dimensions spatiales et temporelles et intègrent les différents sous-systèmes (biosphère, atmosphère, etc.) dans leur compréhension du risque.
-- Besoin de remédiation : Il est nécessaire de développer une "cognition complexe" (holistique et simultanée) pour traiter les phénomènes chaotiques du changement climatique.
+### Perspectives pédagogiques : former autrement
 
-### 4. Leviers d'action et psychologie de l'engagement
+La transition écologique exige une transformation de l'enseignement de la psychologie, visant le développement de compétences transversales.
 
-Pour modifier durablement les pratiques, la psychologie sociale suggère de passer par le comportement lui-même plutôt que par les seules pensées.
+#### Nouvelles modalités de formation
 
-#### La psychologie de l'engagement (E. Causse)
+Selon Sarah Marniesse et Jeanne Henin, une formation efficace doit mettre l'accent sur la conscience et les émotions plutôt que sur les seules connaissances. Elles proposent plusieurs pratiques :
 
-L'engagement est le lien entre l'individu et ses actes. Pour être effectif, il doit respecter certaines conditions :
+- **L'immersion en nature :** Elle permet une reconnexion sensorielle, réduisant la perception de l'humain comme entité séparée du vivant.
+- **L'expression des émotions :** Vivre sa gratitude ou sa peine (travail qui relie de Joanna Macy) permet de lever les blocages inhibant l'action.
+- **Le changement de perspective :** L'« effet de vision globale » (overview effect) peut provoquer un choc cognitif menant à une conscience accrue de la fragilité terrestre.
+- **Le sentiment d'appartenance :** Le changement est plus efficace lorsqu'il est porté par un groupe perçu positivement.
 
-1. Sentiment de liberté : L'acte ne doit pas être produit sous la contrainte.
-2. Caractère irrévocable : Plus il est difficile de revenir en arrière, plus l'engagement est fort.
-3. Caractère public : Un acte réalisé devant autrui engage davantage.
-4. Répétition : La réitération du comportement renforce la cohérence interne.
-5. Coût de l'acte : Obtenir un petit acte peu coûteux facilite l'obtention ultérieure d'un acte plus important (amorçage).
+#### Activités et compétences à développer
 
-### 5. Perspectives pédagogiques pour l'enseignement supérieur
-
-Former à l'écologie en psychologie nécessite de dépasser la simple transmission de savoirs pour viser une "mise en mouvement" des étudiants.
-
-#### Compétences à développer
-
-- Pensée complexe et systémique : Comprendre l'interdépendance des émotions, des comportements et des politiques de durabilité.
-- Analyse critique : Identifier sa propre posture et décrypter les discours environnants.
-- Capacité à agir : Concevoir des stratégies de changement et transformer l'anxiété en résilience.
-
-#### Pratiques pédagogiques innovantes
-
-- Reconnexion à la nature : Organiser des sessions en extérieur pour mobiliser la richesse sensorielle et percevoir l'humain comme un élément du vivant.
-- Intégration des émotions : Utiliser le "travail qui relie" (J. Macy) pour exprimer la gratitude ou la peine face aux pertes environnementales, levant ainsi les blocages à l'action.
-- Changement de perspective : Exploiter l'effet de vision globale (*overview effect*) pour provoquer un choc cognitif sur la fragilité de la Terre.
-- Activités pratiques :
-  - Études de cas sur l'éco-anxiété ou le tri des déchets.
-  - Simulations et jeux de rôle pour convaincre des groupes vulnérables cognitivement.
-  - Conception de nudges appliqués au campus universitaire.
-  - Projets appliqués d'expérimentation de terrain (réduction du plastique, économies d'énergie).
-
-En conclusion, l'enseignement de la psychologie dans le cadre de la TEDS doit favoriser une approche holistique, mêlant cognition, émotion et engagement pratique, pour transformer la vulnérabilité actuelle en une capacité d'action collective et durable.
+Les compétences essentielles à transmettre aux étudiants sont la pensée complexe et systémique, l'analyse critique des discours, et la capacité à accompagner la transformation de la vulnérabilité en résilience.<sup>[[1]](https://www.uved.fr/fileadmin/user_upload/Documents/pdf/Fiches/Fiche_Psychologie_et_TEDS.pdf)</sup> Des activités concrètes sont suggérées, telles que des débats sur la nature de l'éco-anxiété (pathologie ou indicateur de santé mentale ?), la conception de « nudges verts » pour les campus, ou encore des jeux de rôle visant à convaincre des groupes cognitivement vulnérables d'adopter des comportements durables face à des risques réels comme la montée des eaux.
 
 ### Bibliographie
 
-- [Psychologie et Transition écologique](https://www.uved.fr/fileadmin/user_upload/Documents/pdf/Fiches/Fiche_Psychologie_et_TEDS.pdf)
+1. [Psychologie et Transition écologique](https://www.uved.fr/fileadmin/user_upload/Documents/pdf/Fiches/Fiche_Psychologie_et_TEDS.pdf)
+2. [Changement climatique et cognition humaine](https://www.uved.fr/fiche/ressource/changement-climatique-et-cognition-humaine)
+3. [Apprendre autrement la protection de la biodiversité](https://www.uved.fr/fiche/ressource/apprendre-autrement-la-protection-de-la-biodiversite)
+4. [La consommation responsable : obstacles et leviers d’action](https://www.uved.fr/fiche/ressource/la-consommation-responsable-obstacles-et-leviers-daction)
 
 #### Psychologie de l’environnement
 
-- [Changement climatique et cognition humaine](https://www.uved.fr/fiche/ressource/changement-climatique-et-cognition-humaine)
 - [Le déchet : représentations sociales et contexte socionormatif](https://www.uved.fr/fiche/ressource/le-dechet-representations-sociales-et-contexte-socionormatif)
-- [La consommation responsable : obstacles et leviers d’action](https://www.uved.fr/fiche/ressource/la-consommation-responsable-obstacles-et-leviers-daction)
 
 #### La communication engageante
 
 - [La communication engageante](http://rpn.univ-lorraine.fr/UVED/Communication_Engageante/co/Module_communication.html)
 
-#### Education à l’environnement et au développement durable
-
-- [Apprendre autrement la protection de la biodiversité](https://www.uved.fr/fiche/ressource/apprendre-autrement-la-protection-de-la-biodiversite)
-
 #### Ressources complémentaires (via WeLearn)
 
-- [Aspects sociologiques du changement climatique](https://fr.wikipedia.org/wiki/Aspects_sociologiques_du_changement_climatique) - *Wikipedia*
-- [Sustainability Teaching for Impact](https://library.oapen.org/handle/20.500.12657/97921) - *OAPEN*
-- [Trait emotional intelligence and ecological outcomes: the role of connectedness to nature](https://openalex.org/W4394765139) - *BMC Psychology*
-- [Climate actions on the neighbourhood level—Individual, collective, cultural, and socio-structural factors](https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000424) - *PLOS*
-- [It is not just heat waves — climate change is also a crisis of disconnection](http://theconversation.com/it-is-not-just-heat-waves-climate-change-is-also-a-crisis-of-disconnection-210594) - *The Conversation*
-- [Psychological impact of climate change](https://en.wikipedia.org/wiki/Psychological_impact_of_climate_change) - *Wikipedia*
-- [Measuring eco-emotions: a German version of questionnaires on eco-guilt, ecological grief, and eco-anxiety](https://openalex.org/W4392639312) - *Discover Sustainability*
+- [Climate actions on the neighbourhood level—Individual, collective, cultural, and socio-structural factors](https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000424) - **PLOS Climate** *via PLOS*
+- [Achieving Global Open Access](https://library.oapen.org/handle/20.500.12657/91151) - **Taylor & Francis** *via OAPEN*
+- [Les personnes qui défendent la hiérarchie et le conformisme sont plus vulnérables au stress](https://theconversation.com/les-personnes-qui-defendent-la-hierarchie-et-le-conformisme-sont-plus-vulnerables-au-stress-149835) - **The Conversation**
+- [Developing a Citizen Social Science approach to understand urban stress and promote wellbeing in urban communities](https://openalex.org/W3023593704) - **Palgrave Macmillan** *via OpenAlex*
+- [Conformisme ou dissidence ? Les implications psychologiques de l’incongruence entre les attitudes personnelles et la norme collective](https://theses.hal.science/tel-03354677) - **HAL** 
+- [Radicalité et émotions: comment se mobilisent les militants pour le climat](https://theconversation.com/radicalite-et-emotions-comment-se-mobilisent-les-militants-pour-le-climat-181502) - **The Conversation**
+- [Exploring the relationship between nursing students’ knowledge and attitudes towards climate change and their psychological distress: a cross-national investigation](https://openalex.org/W4396239425) - **BioMed Central** *via OpenAlex*
+- [Marcas corporais: a dimensão da letra](https://univ-rennes2.hal.science/hal-01701932) - **HAL**
+- [Sustainability Teaching for Impact](https://library.oapen.org/handle/20.500.12657/97921) - **Taylor & Francis** *via OAPEN*
+- [Le changement en psychologie sociale](https://hal.univ-lorraine.fr/hal-03015033) - **HAL**

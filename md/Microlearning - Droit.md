@@ -1,158 +1,73 @@
-Ce document de synthèse analyse les interactions complexes entre les cadres juridiques et la transition écologique. Il explore comment le droit, traditionnellement conçu pour régir les rapports humains et protéger la propriété, évolue pour intégrer la protection de la biosphère, la reconnaissance de la sensibilité animale et la gestion des risques scientifiques incertains.
+La relation entre le droit et la transition écologique s'articule désormais autour d'un glissement de paradigme majeur, passant d'une simple fonction préventive à une mission active de restauration. Le droit de l'environnement ne se contente plus d'interdire de nouvelles atteintes au milieu, mais prescrit désormais le rétablissement des écosystèmes endommagés.<sup>[[1]](https://www.uved.fr/fileadmin/user_upload/Documents/pdf/Fiches/Fiche_Droit_et_TEDS.pdf)</sup> Cette évolution est consacrée par l'article II de la Charte de l'environnement, qui impose à toute personne le devoir de prendre part à la préservation et à l'amélioration de l'environnement.<sup>[[2]](https://www.uved.fr/fiche/ressource/le-droit-et-lingenierie-ecologique-une-approche-par-le-prisme-de-la-restauration-ecologique)</sup>
 
-### Synthèse : le droit comme moteur de la transition écologique
+Les points essentiels à retenir de cette synthèse concernent l'ancrage constitutionnel du principe de précaution, l'émergence de la réparation du préjudice écologique "en tant que tel", la transition vers une personnalité juridique pour l'animal, et l'internationalisation de la justice environnementale via des concepts comme l'écocide. Le droit n'est plus seulement une limite à l'activité humaine, il devient le moteur de l'ingénierie écologique et de la paix par la coopération environnementale.
 
-La relation entre le droit et la transition écologique se définit par une mutation profonde de la finalité des normes. Initialement, le droit de l'environnement s'inscrivait dans une fonction purement préventive, visant à limiter les nouvelles atteintes au patrimoine écologique. Désormais, il devient un moteur de restauration et d'amélioration. L’article II de la Charte de l’environnement dispose ainsi que toute personne a le devoir de prendre part à la préservation, mais aussi à l'amélioration de l'environnement. Le droit n'est plus seulement une limite à l'activité humaine, mais un instrument de reconquête de la biodiversité par le biais d'obligations de restauration générales (Objectifs d'Aichi, directive-cadre sur l'eau) et individuelles (mesures compensatoires).
+### Le principe de précaution : un patrimoine juridique et délibératif
 
-#### Points clés à retenir
+Le principe de précaution, né en Allemagne sous le nom de Vorsorgeprinzip, s'est imposé sur la scène mondiale lors du Sommet de la Terre à Rio en 1992 avant de s'intégrer au traité de Maastricht puis au préambule de la Constitution française en 2004.<sup>[[3]](https://rpn.univ-lorraine.fr/UVED/TROIS_QUESTIONS_CLEFS_EN_PHILOSOPHIES_DES_SCIENCES/co/principe.html)</sup> Sa définition, issue de la déclaration de Rio, stipule qu'en cas de risques de dommages graves ou irréversibles, l'absence de certitudes scientifiques ne doit pas servir de prétexte pour différer l'adoption de mesures effectives visant à prévenir la dégradation de l'environnement.
 
-- **Changement de paradigme :** Passage d'une vision anthropocentrée (la nature comme ressource) à une vision plus éco-centrée (reconnaissance du préjudice écologique pur et de la solidarité écologique).
-- **Le principe de précaution :** Désormais de rang constitutionnel en France, il impose l'action face à des risques graves ou irréversibles, même en l'absence de certitudes scientifiques.
-- **Évolution du statut du vivant :** Les animaux passent du statut de « biens meubles » à celui « d'êtres vivants doués de sensibilité » dans le Code civil (2015), ouvrant le débat sur la personnalité juridique.
-- **Internationalisation et justice :** Émergence de concepts tels que le crime d'écocide, visant à responsabiliser pénalement les dirigeants pour les destructions d'écosystèmes.
-- **Limites intrinsèques :** Le droit doit concilier la protection environnementale avec d'autres principes constitutionnels comme la liberté d'entreprendre et le droit de propriété.
+L'application de ce principe, notamment dans le cas des Organismes Génétiquement Manipulés (OGM), révèle sa nature fondamentalement novatrice : il permet d'agir avant que la preuve de la dangerosité ne soit scientifiquement établie. Toutefois, comme le soulignent les experts, la précaution ne doit pas être un principe substantiel entraînant un blocage automatique, mais un "principe de mise en délibération".<sup>[[3]](https://rpn.univ-lorraine.fr/UVED/TROIS_QUESTIONS_CLEFS_EN_PHILOSOPHIES_DES_SCIENCES/co/principe.html)</sup> Il nécessite une communication horizontale entre toutes les parties prenantes (industriels, scientifiques, pouvoirs publics et société civile) pour aboutir à des mesures proportionnées et révisables en fonction de l'évolution des connaissances.
 
-### 1. Les principes fondamentaux de l'action juridique environnementale
+### Les instruments de gestion et la reconquête de la biodiversité
 
-L'arsenal juridique s'appuie sur des principes structurants qui permettent de passer de la théorie politique à l'obligation normative.
+La gestion de la biodiversité mobilise une multiplicité d'outils juridiques et économiques que l'État déploie pour internaliser les externalités environnementales. On distingue trois grands blocs d'instruments : les pouvoirs régaliens (autorisations, licences, création d'aires protégées), les instruments économiques basés sur les incitations ou les marchés de quotas, et la soft law (codes de bonne conduite, engagements volontaires).<sup>[[4]](https://www.uved.fr/fiche/ressource/outils-juridiques-et-economiques-de-gestion-de-la-biodiversite)</sup>
 
-#### La prévention et la restauration
+La loi française du 8 août 2016 pour la reconquête de la biodiversité, de la nature et du paysage marque un tournant en inscrivant dans le Code civil la réparation du préjudice écologique. Elle introduit des notions novatrices telles que la solidarité écologique, qui traduit une approche écocentrée de la protection de l'environnement. Un point crucial de cette législation réside dans la séquence "éviter, réduire, compenser", où la compensation doit désormais viser une absence de perte nette de biodiversité par des actions de restauration concrètes. Le droit devient ici un levier pour l'ingénierie écologique, bien que son application puisse être ralentie par la nécessité de concilier l'environnement avec d'autres valeurs comme la liberté d'entreprendre.<sup>[[2]](https://www.uved.fr/fiche/ressource/le-droit-et-lingenierie-ecologique-une-approche-par-le-prisme-de-la-restauration-ecologique)</sup>
 
-Le droit impose désormais une séquence stricte aux porteurs de projets : **Éviter, Réduire, Compenser (ERC)**. La compensation, introduite dès 1976 mais réellement encadrée par la loi de 2016, exige qu'il n'y ait « aucune perte nette » de biodiversité. Cela nécessite le recours à l'ingénierie écologique pour restaurer des sites dégradés.
+### L'évolution de la condition animale et l'émergence du droit animal
 
-#### Le principe de précaution
+La transition écologique interroge également notre rapport aux autres espèces, faisant évoluer le statut juridique de l'animal. Longtemps considéré comme un "bien meuble", l'animal est reconnu depuis 2015 dans le Code civil français comme un "être vivant doué de sensibilité".<sup>[[5]](https://www.uved.fr/fiche/ressource/introduction-au-droit-animal)</sup> Cette reconnaissance s'accompagne de débats doctrinaux sur l'attribution d'une personnalité juridique à l'animal, une thèse soutenue par la Déclaration de Toulon en 2019.
 
-Né en Allemagne (*Vorsorgeprinzip*), consacré à Rio (1992) puis dans la Constitution française (2004), ce principe s'applique dans un contexte d'incertitude scientifique.
+Cette mutation juridique s'appuie sur la distinction entre "agents moraux" (ceux dont les actions sont évaluées en termes de bien ou de mal) et "patients moraux" (ceux qui subissent ces actions). Des théories politiques émergentes, comme celles présentées dans l'ouvrage Zoopolis, proposent de modéliser les relations avec les animaux selon des critères de citoyenneté pour les animaux domestiques, de souveraineté pour les animaux sauvages, et de statut de résident pour les animaux liminaires.<sup>[[5]](https://www.uved.fr/fiche/ressource/introduction-au-droit-animal)</sup> En parallèle, l'action législative, illustrée par la loi EGALIM, tente de traduire ces préoccupations éthiques par des mesures concrètes comme l'encadrement de l'abattage ou l'interdiction de certaines pratiques de chasse jugées incompatibles avec le bien-être animal.<sup>[[6]](https://www.uved.fr/fiche/ressource/vivre-demain-avec-les-autres-animaux-le-temoignage-dun-depute-francais)</sup>
 
-- Conditions : Risques de dommages graves ou irréversibles.
-- Mise en œuvre : L'absence de certitude ne doit pas retarder l'adoption de mesures effectives et proportionnées.
-- Exemple des OGM : Les scientifiques ont eux-mêmes instauré un moratoire dès les années 70 (Asilomar), illustrant une auto-application du principe avant sa codification.
+### Gouvernance mondiale, paix et justice environnementale
 
-#### La non-régression
+À l'échelle internationale, la Convention des Nations Unies sur la diversité biologique de 1992 reconnaît la conservation de la nature comme une "préoccupation commune à l'humanité".<sup>[[7]](https://ressources.uved.fr/Grains_Module4/Convention_diversite/site/html/Convention_diversite/Convention_diversite.html)</sup> Le Protocole de Nagoya (2010) complète cet édifice en régulant l'accès aux ressources génétiques et en imposant un partage juste et équitable des avantages, bien que sa mise en œuvre reste fragile quant à la reconnaissance effective des droits des populations autochtones.<sup>[[8]](https://www.uved.fr/fiche/ressource/le-protocole-de-nagoya)</sup>
 
-Ce principe stipule que la protection de l'environnement, assurée par les dispositions législatives et réglementaires, ne peut faire l'objet que d'une amélioration constante, interdisant tout recul des normes protectrices.
+Le lien entre biodiversité et paix est de plus en plus documenté, l'environnement pouvant être à la fois une source de conflit et un levier de coopération. Le concept de "Parcs pour la paix" vise à instaurer une gestion transfrontalière des écosystèmes pour maintenir le lien social et prévenir les tensions.<sup>[[9]](https://www.uved.fr/fiche/ressource/biodiversite-et-paix)</sup> Enfin, la proposition de faire de l'écocide un cinquième crime contre la paix devant la Cour Pénale Internationale témoigne de la volonté de lever toute impunité pour les destructions massives d'écosystèmes, qu'elles soient intentionnelles ou non, afin de responsabiliser les États et les multinationales.
 
-### 2. L'évolution du statut juridique du vivant
+### Vers une démocratie environnementale et participative
 
-Le droit animalier et la protection de la biodiversité marquent une rupture avec la tradition juridique classique.
+La complexité des enjeux écologiques impose une mise en discussion croissante des choix technologiques et des aménagements du territoire. La loi française et les conventions internationales comme celle d'Aarhus consacrent le droit à l'information et à la participation du public.<sup>[[10]](https://www.uved.fr/fiche/ressource/la-mise-en-discussion-des-enjeux-de-la-biodiversite)</sup> Cette "démocratie environnementale" cherche à sortir d'une vision purement protectrice pour co-construire des territoires où l'homme est considéré comme un producteur de nature aux côtés d'autres acteurs.
 
-#### De la propriété à la sensibilité
-
-Historiquement, l'animal a été jugé pénalement (procès de cochons au Moyen-Âge) avant d'être réduit à un objet de propriété. La législation française a évolué par étapes :
-
-- 1850 (Loi Grammont) : Sanction de la cruauté publique.
-- 1976 (Code rural) : Reconnaissance de l'animal comme être sensible.
-- 2015 (Code civil) : L'animal n'est plus un bien meuble mais un être vivant doué de sensibilité.
-
-#### Vers une personnalité juridique ?
-
-La **Déclaration de Toulon (2019)**, en réponse à la Déclaration de Cambridge sur la conscience (2012), soutient que la personnalité juridique devrait être reconnue aux animaux. Des théories politiques, comme celles développées dans *Zoopolis*, proposent de catégoriser les animaux pour leur attribuer des droits spécifiques :
-
-- Animaux domestiques : Citoyenneté.
-- Animaux sauvages : Souveraineté sur leur territoire.
-- Animaux liminaires : Statut de résidents.
-
-#### La reconnaissance du préjudice écologique
-
-Inscrit dans le Code civil suite à l'affaire de l'Erika, le préjudice écologique permet de réparer les atteintes aux écosystèmes eux-mêmes, indépendamment des dommages causés aux humains ou à leurs biens.
-
-### 3. Gouvernance internationale et nouveaux risques
-
-La gestion de la transition écologique s'inscrit dans un cadre mondial marqué par des tensions entre développement et conservation.
-
-#### Les grandes conférences Onusiennes
-
-L'histoire du développement durable est jalonnée de sommets majeurs :
-
-- Stockholm (1972) : Création du PNUE, début de l'opposition Nord (environnement) / Sud (développement).
-- Rio (1992) : Adoption de l'Agenda 21 et des conventions sur le climat et la biodiversité.
-- Johannesburg (2002) : Montée en puissance des acteurs privés et des engagements volontaires (Soft Law).
-- Rio+20 (2012) : Émergence du concept d'économie verte.
-
-#### Le protocole de Nagoya (2010)
-
-Ce traité contraignant régule l'accès aux ressources génétiques et le partage juste et équitable des avantages (APA). Il vise à lutter contre la **biopiraterie** en imposant le consentement préalable des populations autochtones et le partage des retombées commerciales ou scientifiques issues de leurs savoirs traditionnels.
-
-#### Le crime d'écocide : un cinquième crime contre la paix
-
-Proposé comme amendement aux statuts de la Cour Pénale Internationale, l'écocide qualifierait les destructions massives et irréversibles d'écosystèmes (ex: assèchement de la mer d'Aral). Ce concept vise à lever l'impunité des chefs d'État et d'entreprise pour des actes, même non intentionnels, portant atteinte au « système support de vie ».
-
-### 4. Instruments et acteurs de la régulation
-
-Le droit mobilise des outils diversifiés pour influencer les comportements économiques et sociaux.
-
-#### Outils juridiques et économiques
-
-L'État arbitre entre intérêts publics et privés via deux approches économiques majeures :
-
-| Approche | Mécanisme | Objectif |
-| --- | --- | --- |
-| **Pigouvienne** | Taxe pollueur-payeur | Modifier les comportements par l'incitation financière ou la sanction. |
-| **Coasienne** | Marché de quotas (ex: carbone) | Échange de droits de propriété sans intervention directe de l'État. |
-
-#### La procédure participative
-
-La loi impose désormais la mise en discussion des enjeux environnementaux (lois Bouchardeau, Barnier, Convention d'Aarhus). La participation citoyenne vise à co-construire les territoires et à légitimer les décisions complexes (OGM, déchets nucléaires) via des enquêtes publiques ou des conférences de citoyens.
-
-#### Les ministères concernés en France
-
-La question animale et environnementale est par essence interministérielle, impliquant :
-
-- Transition écologique : Animal sauvage, biodiversité, risques climatiques.
-- Agriculture : Animaux de production et de compagnie.
-- Justice : Sanctions pénales et préjudice écologique.
-- Recherche : Animal d'expérimentation.
-- Intérieur : Troubles à l'ordre public liés aux manifestations environnementales.
-
-### 5. Analyse critique : le risque et ses perceptions
-
-Le droit doit naviguer entre la rigueur scientifique et la perception humaine du risque.
-
-- Subjectivité du risque : Le risque « humain » n'est pas réductible à la formule mathématique des cindyniques (Danger x Probabilité). Un risque imposé et injuste (ex: OGM pour le consommateur sans bénéfice direct) est systématiquement moins accepté qu'un risque volontaire.
-- Incertitude vs ignorance : Les industriels ont parfois refusé de financer des recherches sur les risques associés aux innovations (ex: OGM de Rhône-Poulenc ou Monsanto dans les années 90), créant un déficit de connaissances que le principe de précaution tente de combler.
-- Le rôle de l'expert : On observe souvent un cloisonnement scientifique. Les experts capables de fabriquer une innovation (biologie moléculaire) ne sont pas nécessairement compétents pour en évaluer les risques écosystémiques (toxicologie, écologie), ce qui peut biaiser les premières commissions d'autorisation.
-
-*« Le droit n'est pas une fin en soi, mais un moyen au service des pouvoirs publics, des entreprises et de la société civile. »* — Marthe Lucas, Maître de conférences.
+Toutefois, cette participation nécessite une vigilance constante pour éviter l'instrumentalisation ou le renforcement du pouvoir de certains acteurs dominants. Le droit doit ici garantir la transparence, la traçabilité des débats et l'équité des prises de parole pour que la transition écologique soit non seulement une réussite environnementale, mais aussi un progrès démocratique et social. En conclusion, le droit n'est pas une fin en soi, mais un moyen au service de la société civile pour atteindre les objectifs de restauration indispensables à l'avenir de l'humanité.<sup>[[2]](https://www.uved.fr/fiche/ressource/le-droit-et-lingenierie-ecologique-une-approche-par-le-prisme-de-la-restauration-ecologique)</sup>
 
 ### Bibliographie
 
-- [Droit et Transition écologique](https://www.uved.fr/fileadmin/user_upload/Documents/pdf/Fiches/Fiche_Droit_et_TEDS.pdf)
-
-#### Droit animal
-
-- [Introduction au droit animal](https://www.uved.fr/fiche/ressource/introduction-au-droit-animal)
-- [Vivre demain avec les autres animaux : le témoignage d’un député français](https://www.uved.fr/fiche/ressource/vivre-demain-avec-les-autres-animaux-le-temoignage-dun-depute-francais)
+1. [Droit et Transition écologique](https://www.uved.fr/fileadmin/user_upload/Documents/pdf/Fiches/Fiche_Droit_et_TEDS.pdf)
+2. [Le droit et l’ingénierie écologique : une approche par le prisme de la restauration écologique](https://www.uved.fr/fiche/ressource/le-droit-et-lingenierie-ecologique-une-approche-par-le-prisme-de-la-restauration-ecologique)
+3. [Le principe de précaution et l’exemple des OGM](https://rpn.univ-lorraine.fr/UVED/TROIS_QUESTIONS_CLEFS_EN_PHILOSOPHIES_DES_SCIENCES/co/module_philo_3questions_cles_1.html)
+4. [Outils juridiques et économiques de gestion de la biodiversité](https://www.uved.fr/fiche/ressource/outils-juridiques-et-economiques-de-gestion-de-la-biodiversite)
+5. [Introduction au droit animal](https://www.uved.fr/fiche/ressource/introduction-au-droit-animal)
+6. [Vivre demain avec les autres animaux : le témoignage d’un député français](https://www.uved.fr/fiche/ressource/vivre-demain-avec-les-autres-animaux-le-temoignage-dun-depute-francais)
+7. [La convention cadre des nations-unies sur la diversité biologique](https://ressources.uved.fr/Grains_Module4/Convention_diversite/site/html/Convention_diversite/Convention_diversite.html)
+8. [Les principes éthiques onusiens du développement durable : le protocole de Nagoya](https://www.uved.fr/fiche/ressource/le-protocole-de-nagoya)
+9. [Biodiversité et paix](https://www.uved.fr/fiche/ressource/biodiversite-et-paix)
+10. [La mise en discussion des enjeux de la biodiversité](https://www.uved.fr/fiche/ressource/la-mise-en-discussion-des-enjeux-de-la-biodiversite)
 
 #### Droit international de l’environnement
 
 - [Le développement durable au sommet : les grandes conférences internationales de Stockholm à Rio+20](https://www.uved.fr/fiche/ressource/le-developpement-durable-au-sommet-les-grandes-conferences-internationales-de-stockholm-a-rio-20)
 - [La convention cadre des nations-unies sur le changement climatique](https://ressources.uved.fr/Grains_Module4/Convention_cadre/site/html/Convention_cadre/Convention_cadre.html)
 - [L'Accord de Paris sur le climat : de la COP21 à la transformation du monde](https://www.uved.fr/fiche/ressource/laccord-de-paris-sur-le-climat-de-la-cop21-a-la-transformation-du-monde)
-- [La convention cadre des nations-unies sur la diversité biologique](https://ressources.uved.fr/Grains_Module4/Convention_diversite/site/html/Convention_diversite/Convention_diversite.html)
-- [Les principes éthiques onusiens du développement durable : le protocole de Nagoya](https://www.uved.fr/fiche/ressource/le-protocole-de-nagoya)
-- [Outils juridiques et économiques de gestion de la biodiversité](https://www.uved.fr/fiche/ressource/outils-juridiques-et-economiques-de-gestion-de-la-biodiversite)
 - [Droit international de la mer et ressources situées en mer : quels enjeux actuels ?](https://www.uved.fr/fiche/ressource/droit-international-de-la-mer-et-ressources-situees-en-mer-quels-enjeux-actuels)
-- [Biodiversité et paix](https://www.uved.fr/fiche/ressource/biodiversite-et-paix)
 
 #### Droit français de l’environnement
 
 - [La compensation écologique](https://www.uved.fr/fiche/ressource/la-compensation-ecologique)
-- [Le droit et l’ingénierie écologique : une approche par le prisme de la restauration écologique](https://www.uved.fr/fiche/ressource/le-droit-et-lingenierie-ecologique-une-approche-par-le-prisme-de-la-restauration-ecologique)
 - [Obsolescence programmée : théorie, enjeux et cas pratiques](https://www.uved.fr/fiche/ressource/obsolescence-programmee-theorie-enjeux-et-cas-pratiques)
-- [Le principe de précaution et l’exemple des OGM](https://rpn.univ-lorraine.fr/UVED/TROIS_QUESTIONS_CLEFS_EN_PHILOSOPHIES_DES_SCIENCES/co/module_philo_3questions_cles_1.html)
 - [Devoir de vigilance et chaîne de valeur étendue pour un management responsable](https://www.uved.fr/fiche/ressource/devoir-de-vigilance-et-chaine-de-valeur-etendue-pour-un-management-responsable)
 - [Les grandes familles d’espaces naturels français](https://www.supagro.fr/ress-tice/aten_uved/module_theorique/co/orientation_familles.html)
 
-#### Débat public & procédures participatives
-
-- [La mise en discussion des enjeux de la biodiversité](https://www.uved.fr/fiche/ressource/la-mise-en-discussion-des-enjeux-de-la-biodiversite)
-
 #### Ressources complémentaires (via WeLearn)
 
-- [Droit de l'environnement](https://fr.wikipedia.org/wiki/Droit_de_l'environnement) - *Wikipedia*
-- [Charte mondiale de la nature](https://fr.wikipedia.org/wiki/Charte_mondiale_de_la_nature) - *Wikipedia*
-- [État de droit environnemental](https://fr.wikipedia.org/wiki/État_de_droit_environnemental) - *Wikipedia*
-- [Environmental and Climate Crises as a Factor in the Development of Modern Constitutionalism and Environmental Security](https://openalex.org/W4313416013) - *Problems of Legality*
-- [Crime environnemental](https://fr.wikipedia.org/wiki/Crime_environnemental) - *Wikipedia*
-- [The IPBES assessment report on land degradation and restoration.](https://www.ipbes.net/document-library-catalogue/assessment-report-land-degradation-and-restoration-full-report-including) - *IPBES*
-- [Poluição atmosférica veicular e o direito tributário ambiental no Brasil: proposta de reestruturação tributária para o desenvolvimento sustentável](https://openalex.org/W2583820960) - *Ambiente e Agua - An Interdisciplinary Journal of Applied Science*
+- [Public International Law](https://library.oapen.org/handle/20.500.12657/88272) - **Taylor & Francis** *via OAPEN*
+- [Environmental and Climate Crises as a Factor in the Development of Modern Constitutionalism and Environmental Security](https://openalex.org/W4313416013) - **National University “Yaroslav the Wise Law Academy of Ukraine”** *via OpenAlex*
+- [Des choses de la nature et de leurs droits](https://books.openedition.org/quae/41762) - **Éditions Quæ** *via OpenEdition Books*
+- [Poluição atmosférica veicular e o direito tributário ambiental no Brasil: proposta de reestruturação tributária para o desenvolvimento sustentável](https://openalex.org/W2583820960) - **Instituto de Pesquisas Ambientais em Bacias Hidrográficas (IPABHi)** *via OpenAlex*
+- [Evolving Jurisprudence of Environmental Law: A Doctrinal Analysis](https://openalex.org/W4390275277) **OpenAlex**
+- [Environmental Stewardship: Confluence of Law and Religion?](https://openalex.org/W4312820734) **North-West University** *via OpenAlex*
+- [Compensation écologique](https://books.openedition.org/puam/1883) **Presses universitaires d’Aix-Marseille** via *OpenEdition Books*
+- [14. Human Rights and the Environment](https://openalex.org/W4387398169) - **OpenAlex**
+- [Toward transformative youth climate justice: Why youth agency is important and six critical areas for transformative youth activism, policy, and research](https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000472) - **PLOS Climate** *via PLOS*
+- [Après la COP15 de Montréal, où en est l’action en faveur de la biodiversité ?](http://theconversation.com/apres-la-cop15-de-montreal-ou-en-est-laction-en-faveur-de-la-biodiversite-198750) - **The Conversation**
