@@ -1,135 +1,71 @@
-Ce document de synthèse analyse les liens profonds entre la discipline historique et les enjeux de la transition écologique. Conçu pour les enseignants-chercheurs en histoire, il explore comment la perspective historique permet de comprendre la trajectoire actuelle de l'humanité, l'évolution de ses relations avec le vivant et les racines des crises environnementales contemporaines.
+Cette synthèse analyse les relations complexes entre la discipline historique et les enjeux de la transition écologique, en s'appuyant sur les interventions d'experts issus des cycles de formation de l'UVED. Il explore comment la profondeur historique permet de contextualiser la crise environnementale actuelle et comment l'histoire, en tant que science, peut contribuer à l'éducation au développement durable.<sup>[[1]](https://www.uved.fr/fileadmin/user_upload/Documents/pdf/Fiches/Fiche_Histoire_et_TEDS.pdf)</sup>
 
-### Résumé et points clés
+### La perspective historique au cœur de la transition écologique
 
-La relation entre l'histoire et la transition écologique repose sur un changement de paradigme historiographique : le passage d'une histoire centrée sur la construction de la nation (le « roman national ») à une histoire de l'aventure de l'espèce humaine sur la planète. L'histoire n'est plus seulement une étude du passé, mais un outil pour comprendre les processus de changement, de résilience et de durabilité. Elle offre une profondeur temporelle indispensable pour déconstruire l'idée que les problèmes écologiques sont récents, en les ancrant dans les révolutions industrielles et agricoles du XIXe siècle.
+L'histoire et la transition écologique entretiennent une relation fondamentale car l'étude du passé permet de comprendre les trajectoires des sociétés et les processus de changement qui ont mené à la situation contemporaine. Comme le souligne Valery Bordois, l'histoire n'est pas seulement un gisement d'exemples mais un outil pour penser la durabilité à travers des notions de complexité telles que la résilience ou la rétroaction.<sup>[[2]](https://www.uved.fr/fiche/ressource/lhistoire-scolaire-quelle-contribution-a-leducation-au-developpement-durable)</sup> La transition écologique s'inscrit dans une temporalité longue, débutant avec la néolithisation et s'accélérant brutalement lors des révolutions industrielle et agricole.
 
-#### Enseignements fondamentaux
+Premièrement, les problèmes environnementaux ne sont pas une découverte récente des années 1970 mais prennent racine dans les transformations du XIXe siècle, marquées par une déforestation massive et l'essor de l'industrie.<sup>[[3]](https://www.uved.fr/fiche/ressource/profondeur-historique-des-problemes-environnementaux)</sup> Deuxièmement, la relation entre l'homme et l'animal a subi des mutations radicales, passant d'une civilisation hippomobile au XIXe siècle à une motorisation totale et un élevage industriel après 1950.<sup>[[4]](https://www.uved.fr/fiche/ressource/de-la-revolution-industrielle-a-nos-jours-la-civilisation-des-animaux)</sup> Troisièmement, le concept de développement durable est le fruit d'une sédimentation institutionnelle et intellectuelle, passant de l'écodéveloppement d'Ignacy Sachs en 1972 aux Objectifs de Développement Durable (ODD) actuels, qui marquent un changement de paradigme vers une responsabilité globale.<sup>[[5]](https://www.uved.fr/fiche/ressource/origine-et-histoire-du-concept-decodeveloppement)[[6]](https://www.uved.fr/fiche/ressource/une-introduction-historique-aux-odd)</sup> Enfin, l'enseignement de l'histoire doit désormais articuler le récit national avec une histoire globale et environnementale pour éviter l'instrumentalisation idéologique et favoriser une compréhension systémique des interactions entre sociétés et milieux.
 
-- Profondeur historique : Les racines de la crise écologique actuelle remontent à la moitié du XIXe siècle (déforestation massive aux États-Unis, pollution industrielle en Europe).
-- Changement de récit : L'émergence du concept d'anthropocène impose un nouveau schéma narratif qui place l'influence humaine au centre de la biosphère.
-- Énergie et société : Les filières énergétiques sont des déterminants historiques majeurs. Nous vivons une transition qui marque la fin d'un système basé sur des énergies fossiles finies.
-- Relations homme-animal : La domestication et l'industrialisation de l'élevage ont transformé non seulement les paysages, mais aussi la biologie humaine et animale.
-- Gouvernance globale : Le passage de l'« écodéveloppement » au « développement durable », puis aux Objectifs de Développement Durable (ODD), illustre une quête de convergence mondiale face à la fragmentation du monde.
+### Profondeur historique de la domestication et des échanges énergie-matière
 
-### 1. Historiographie et Éducation au Développement Durable (EDD)
+La transition écologique contemporaine doit être comprise comme l'aboutissement d'un long processus de domestication et de maîtrise énergétique. Joséphine Lesur rappelle que ce processus a débuté il y a plus de 15 000 ans avec le loup, suivi par la néolithisation il y a 10 000 ans.<sup>[[7]](https://www.uved.fr/fiche/ressource/la-domestication-animale)</sup> Ce bouleversement n'est pas uniquement climatique mais multifactoriel, impliquant des dimensions démographiques, socio-économiques et cognitives où l'humain commence à se placer au-dessus de la nature. La domestication a engendré des modifications phénotypiques majeures chez les animaux, comme la redistribution de la masse corporelle du porc pour favoriser la production de viande, mais aussi chez l'humain, avec la persistance de la lactase pour digérer le lait à l'âge adulte.
 
-L'intégration de l'histoire dans l'éducation au développement durable soulève des enjeux méthodologiques et idéologiques importants pour l'historien.
+Sur le plan énergétique, Régis Olives explique que les filières énergétiques sont des déterminants historiques forts.<sup>[[8]](https://www.uved.fr/fiche/ressource/les-energies-renouvelables-remise-en-contexte-historique)</sup> Avant la révolution industrielle, les sociétés dépendaient du bois, de la force animale et éolienne. Le passage au charbon puis au pétrole a permis d'atteindre des niveaux de puissance inédits, mais a également créé une contrainte environnementale insoutenable. Olives note que nous vivons une situation analogue au système énergétique médiéval qui avait buté sur la raréfaction du bois, nous imposant aujourd'hui une transition vers la sobriété et l'efficacité face à la finitude des ressources fossiles.
 
-#### Obstacles et risques
+### Les révolutions industrielles et la mutation du rapport au vivant
 
-- Conflit d'échelles : Il existe une tension entre l'histoire nationale traditionnelle et une histoire globale de l'humanité.
-- Instrumentalisation : Le risque est d'utiliser l'histoire pour légitimer un « grand récit environnemental » (péril global, survie de l'humanité, incitation à l'action), ce qui pourrait aliéner les sociétés à la seule expertise scientifique et politique.
+Le XIXe siècle représente une phase charnière où l'emploi des animaux a atteint son apogée avant de décliner. Éric Baratay décrit cette période comme une "civilisation hippomobile" sans précédent.<sup>[[4]](https://www.uved.fr/fiche/ressource/de-la-revolution-industrielle-a-nos-jours-la-civilisation-des-animaux)</sup> Les chevaux étaient les moteurs de la révolution industrielle, utilisés massivement dans les transports urbains, les mines et le halage des canaux. La zootechnie, fondée en 1842, envisageait alors l'animal comme une machine qu'il fallait conformer à des tâches spécifiques. Parallèlement, la révolution agricole a entraîné une explosion du cheptel bovin pour répondre à une demande croissante en produits animaux, transformant radicalement les paysages, comme en Normandie où les prés ont remplacé les cultures céréalières.
 
-#### Courants historiographiques privilégiés
+Le XXe siècle a marqué une rupture brutale avec la disparition des animaux de trait au profit de la motorisation dans l'entre-deux-guerres. Après 1950, l'élevage industriel a conduit à un enfermement des animaux, les faisant disparaître du paysage visuel alors que leurs effectifs continuaient de croître. En revanche, le nombre d'animaux de compagnie a explosé, instaurant une relation basée sur l'affectivité et l'émotion, désormais dominante dans nos sociétés contemporaines.
 
-L'analyse identifie trois courants majeurs pour aborder la transition :
+### Genèse institutionnelle et conceptuelle du développement durable
 
-- L'Histoire globale : Étudie comment l'humanité est passée de bandes errantes à des sociétés hyper-connectées.
-- La Géohistoire : Analyse l'évolution des centres et périphéries mondiales et la relation homme-nature à travers le temps.
-- L'Histoire environnementale : Étudie les interactions entre sociétés et milieux (pollutions, risques, climat, hydro-histoire).
+La prise de conscience environnementale moderne s'est structurée autour de moments et de rapports fondateurs. Dominique Bourg identifie le XIXe siècle comme le berceau de cette conscience, citant les travaux d'Eugène Huzar ou de George Perkins Marsh.<sup>[[3]](https://www.uved.fr/fiche/ressource/profondeur-historique-des-problemes-environnementaux)</sup> La création de la Société d'acclimatation en 1854 en France ou du Sierra Club en 1892 aux États-Unis témoigne de l'organisation précoce de la défense de la nature.
 
-#### Le concept d'anthroposystème
+Le tableau suivant récapitule les étapes majeures de la construction conceptuelle du développement durable au XXe siècle :
 
-Apparu dans les années 90, l'anthroposystème propose une approche interdisciplinaire pour étudier les relations entre l'homme et son milieu, remettant en cause la distinction classique nature/culture.
+| Année | Événement / Concept | Acteurs clés | Apport principal |
+| --- | --- | --- | --- |
+| 1972 | Rapport Meadows | Club de Rome | Identification des limites physiques à la croissance et risque d'effondrement vers 2020-2030. |
+| 1972 | Conférence de Stockholm | Maurice Strong, Ignacy Sachs | Émergence de l'écodéveloppement conciliant justice sociale et prudence écologique. |
+| 1987 | Rapport Brundtland | ONU | Marginalisation de l'écodéveloppement au profit du concept de développement durable. |
+| 2000 | Déclaration du Millénaire | ONU | Lancement des Objectifs du Millénaire pour le Développement (OMD) centrés sur les pays pauvres. |
+| 2015 | Objectifs de Développement Durable | ONU | Passage à un agenda universel incluant la croissance inclusive et la responsabilité de tous les pays. |
 
-### 2. Jalons historiques de la conscience environnementale
+Eric Berr précise que l'écodéveloppement reposait sur trois piliers : la self-reliance (autonomie des décisions), la satisfaction équitable des besoins essentiels et la prudence écologique.<sup>[[5]](https://www.uved.fr/fiche/ressource/origine-et-histoire-du-concept-decodeveloppement)</sup> Ce concept a été supplanté par le développement durable, jugé moins subversif par les pays développés. Jean-Michel Severino souligne que les ODD représentent aujourd'hui une "transformation du paradigme" où l'environnement est intégré au cœur de la croissance économique globale.<sup>[[6]](https://www.uved.fr/fiche/ressource/une-introduction-historique-aux-odd)</sup>
 
-Contrairement aux idées reçues situant l'éveil écologique dans les années 1970, les sources démontrent une conscience bien plus ancienne.
+### Enjeux historiographiques et didactiques pour l'enseignement
 
-#### Le tournant du XIXe siècle
+Pour les enseignants-chercheurs en histoire, l'intégration du développement durable impose une réflexion sur les cadres narratifs traditionnels. Valery Bordois avertit contre le risque de conflit d'échelle entre le "roman national" et l'aventure globale de l'espèce humaine.<sup>[[2]](https://www.uved.fr/fiche/ressource/lhistoire-scolaire-quelle-contribution-a-leducation-au-developpement-durable)</sup> Il suggère d'utiliser les matériaux de l'histoire environnementale (pollutions, risques, climat) et de la géohistoire pour analyser les interactions entre sociétés et milieux naturels.
 
-- États-Unis : La prise de conscience naît de la déforestation massive. Cela mène au conservationnisme et à la création du Yellowstone Park en 1872.
-- Europe : C'est l'impact visuel et sanitaire de l'industrie (soudières, fabriques) qui marque les esprits. Dès 1854, la Société d'acclimatation est créée en France.
-- Réflexions précoces : Dès le milieu du XIXe siècle, des auteurs comme Eugène Huzar ou George Perkins Marsh s'interrogent sur la survie de la civilisation face aux coûts écologiques de la science et de l'industrie.
-
-#### L'alerte scientifique : le rapport Meadows (1972)
-
-Le rapport *Limits to Growth* (1972) constitue un jalon critique. Commandé par le Club de Rome, il prédit un effondrement systémique à l'horizon 2020-2030 dû à la croissance exponentielle et à l'épuisement des ressources naturelles (pétrole, cuivre, nickel).
-
-### 3. Énergie et animalité : deux moteurs de transformation
-
-L'histoire de la transition écologique est indissociable de l'évolution de l'énergie et des relations inter-espèces.
-
-#### Trajectoires énergétiques
-
-Les filières énergétiques conditionnent l'évolution sociale :
-
-| Période | Sources dominantes | Impact historique |
-| --- | --- | --- |
-| **Pré-industrielle** | Feu, traction animale, bois, vent/eau | Facteur d'hominisation et de socialisation |
-| **XIXe siècle** | Charbon, machine à vapeur | Développement de puissances massives, essor industriel |
-| **XXe siècle** | Pétrole, nucléaire, gaz | Explosion des transports, pic de production (*peak oil*) |
-| **Aujourd'hui** | Transition énergétique | Recherche d'efficacité, de sobriété et de renouvelables |
-
-#### La civilisation des animaux
-
-L'histoire des relations hommes-animaux est marquée par une complexification croissante :
-
-- Révolution industrielle et agricole : Les animaux sont envisagés comme des machines (zootechnie fondée en 1842). Le nombre de bovins double entre la Révolution française et 1914 pour répondre à la demande de viande et de lait, transformant radicalement les paysages (ex: la Normandie devenue 97% de prés).
-- Déclin et mutation : Après 1914, les animaux de trait disparaissent au profit de la motorisation. Parallèlement, on assiste à une explosion des animaux de compagnie à partir des années 1950, passant d'un luxe aristocratique à une pratique sociale globale basée sur l'affectivité.
-
-### 4. La domestication : une perspective de long terme
-
-La domestication n'est pas qu'un fait économique, c'est un processus multifactoriel commencé il y a plus de 15 000 ans.
-
-- Voies de domestication : La chasse (gestion de troupeau), la voie commensale (mutualisme, ex: le chat à Chypre dès le 10e millénaire) et la voie directe (transport, ex: l'âne en Égypte).
-- Impacts biologiques : La domestication a modifié le phénotype des animaux (taille, pelage) mais aussi celui des humains (mutation permettant de digérer le lactose à l'âge adulte).
-- Statut symbolique : L'animal favori (scarifications, cornes déformées dans certaines sociétés pastorales) montre que l'animal est une forme d'union entre l'humain et le vivant, bien au-delà de sa valeur marchande.
-
-### 5. Vers un cadre de gouvernance mondiale
-
-L'évolution terminologique reflète des changements de priorités politiques internationales.
-
-#### De l'écodéveloppement au Développement Durable
-
-Formulé par Maurice Strong et théorisé par Ignacy Sachs en 1972, l'écodéveloppement repose sur trois piliers :
-
-1. *Self-reliance* : Autonomie des décisions et modèles alternatifs propres à chaque culture.
-2. Besoins essentiels : Prise en charge équitable des besoins matériels et immatériels.
-3. Prudence écologique : Entre productivisme et sanctification de la nature.
-
-Ce concept a été marginalisé par le "Développement Durable" (Rapport Brundtland, 1987), jugé moins contestataire des modèles dominants des pays du Nord.
-
-#### Les ODD : Un changement de paradigme
-
-Les Objectifs de Développement Durable (2015) marquent une transformation par rapport aux Objectifs du Millénaire (2000) :
-
-- Universalité : Ils concernent tous les pays, riches comme pauvres.
-- Rôle de la croissance : La croissance inclusive est vue comme le moteur principal de l'élimination de la pauvreté.
-- Convergence : Ils cherchent à fédérer acteurs publics, privés et société civile malgré la fragmentation géopolitique actuelle.
-
-**Citation marquante :** *« L’histoire est aussi l’étude du changement et [...] on a besoin d’être capable d’envisager le passé comme un processus et de comprendre les processus qui sont à l’œuvre dans la trajectoire des sociétés. Une sorte d’initiation à la complexité. »* (Valery Bordois)
+Le concept d'"anthroposystème", introduit dans les années 1990, permet d'étudier ces relations de manière interdisciplinaire. L'histoire doit également se méfier du "grand récit environnemental" qui pourrait aliéner les sociétés à la seule expertise scientifique. Au lieu de cela, elle doit favoriser une "initiation à la complexité" en utilisant le passé pour comprendre les processus évolutifs. Des initiatives pédagogiques, comme les enquêtes sur les risques majeurs locales, permettent aux élèves de mobiliser des sources historiques pour comprendre la trajectoire de leur propre territoire. En somme, l'histoire offre les outils nécessaires pour "penser historiquement le futur", selon la formule de Carlos Barros citée par Bordois.
 
 ### Bibliographie
 
-- [Histoire et Transition écologique](https://www.uved.fr/fileadmin/user_upload/Documents/pdf/Fiches/Fiche_Histoire_et_TEDS.pdf)
-
-#### Histoire et développement durable
-
-- [L’histoire scolaire : quelle contribution à l’éducation au développement durable ?](https://www.uved.fr/fiche/ressource/lhistoire-scolaire-quelle-contribution-a-leducation-au-developpement-durable)
-
-#### Histoire environnementale
-
-- [Profondeur historique des problèmes environnementaux](https://www.uved.fr/fiche/ressource/profondeur-historique-des-problemes-environnementaux)
-- [Les énergies renouvelables : remise en contexte historique](https://www.uved.fr/fiche/ressource/les-energies-renouvelables-remise-en-contexte-historique)
-- [La domestication animale](https://www.uved.fr/fiche/ressource/la-domestication-animale)
-- [De la révolution industrielle à nos jours : la civilisation des animaux](https://www.uved.fr/fiche/ressource/de-la-revolution-industrielle-a-nos-jours-la-civilisation-des-animaux)
+1. [Histoire et Transition écologique](https://www.uved.fr/fileadmin/user_upload/Documents/pdf/Fiches/Fiche_Histoire_et_TEDS.pdf)
+2. [L’histoire scolaire : quelle contribution à l’éducation au développement durable ?](https://www.uved.fr/fiche/ressource/lhistoire-scolaire-quelle-contribution-a-leducation-au-developpement-durable)
+3. [Profondeur historique des problèmes environnementaux](https://www.uved.fr/fiche/ressource/profondeur-historique-des-problemes-environnementaux)
+4. [De la révolution industrielle à nos jours : la civilisation des animaux](https://www.uved.fr/fiche/ressource/de-la-revolution-industrielle-a-nos-jours-la-civilisation-des-animaux)
+5. [Origine et histoire du concept d’écodéveloppement](https://www.uved.fr/fiche/ressource/origine-et-histoire-du-concept-decodeveloppement)
+6. [Une introduction historique aux Objectifs de Développement Durable](https://www.uved.fr/fiche/ressource/une-introduction-historique-aux-odd)
+7. [La domestication animale](https://www.uved.fr/fiche/ressource/la-domestication-animale)
+8. [Les énergies renouvelables : remise en contexte historique](https://www.uved.fr/fiche/ressource/les-energies-renouvelables-remise-en-contexte-historique)
 
 #### Histoire du développement durable
 
 - [Le Rapport Meadows (1972)](https://www.uved.fr/fiche/ressource/le-rapport-meadows-1972)
-- [Origine et histoire du concept d’écodéveloppement](https://www.uved.fr/fiche/ressource/origine-et-histoire-du-concept-decodeveloppement)
 - [L’incontournable rapport Brundtland](https://www.uved.fr/fiche/ressource/lincontournable-rapport-brundtland)
-- [Une introduction historique aux Objectifs de Développement Durable](https://www.uved.fr/fiche/ressource/une-introduction-historique-aux-odd)
 - [Trois éléments saillants distinguant les ODD dans l’histoire du développement](https://www.uved.fr/fiche/ressource/trois-elements-saillants-distinguant-les-odd-dans-lhistoire-du-developpement)
 
 #### Ressources complémentaires (via WeLearn)
 
-- [Responses of economic systems to environmental changes: past experiences](https://shs.hal.science/halshs-00647279) - *HAL*
-- [Heritage Responds – Taking positive actions on climate change](https://openalex.org/W4220981412) - *Internet Archaeology*
-- [Écologie historique](https://fr.wikipedia.org/wiki/Écologie_historique) - *Wikipedia*
-- [Humanités environnementales](https://books.openedition.org/psorbonne/84270) - *OpenEdition Books*
-- [Environmental history](https://en.wikipedia.org/wiki/Environmental_history) - *Wikipedia*
-- [How to achieve the net-zero target? Lessons learned from past transformations](https://journals.plos.org/sustainabilitytransformation/article?id=10.1371/journal.pstr.0000068) - *PLOS*
-- [Nation-building or nature-destroying? Why it’s time NZ faced up to the environmental damage of its colonial past](https://theconversation.com/nation-building-or-nature-destroying-why-its-time-nz-faced-up-to-the-environmental-damage-of-its-colonial-past-185693) - *The Conversation*
+- [Face à la crise écologique, le défi lancé par les jeunes générations aux écoles et aux universités](http://theconversation.com/face-a-la-crise-ecologique-le-defi-lance-par-les-jeunes-generations-aux-ecoles-et-aux-universites-191088) - **The Conversation**
+- [L’école écologique : s’ajuster ou transformer ?](https://books.openedition.org/enseditions/63096) - **ENS Éditions** *via OpenEdition Books*
+- [Course: Intégration du changement climatique dans les politiques nationale, sectorielle et locale | One UN Climate Change Learning Partnership](https://unccelearn.org/course/view.php?id=121&page=overview&lang=en) - **UN CC:e-Learn**
+- [Responses of economic systems to environmental changes: past experiences](https://shs.hal.science/halshs-00647279) - **HAL**
+- [Attempts to (re)capture the school history curriculum? Reflections on the history ministerial task team's report](https://openalex.org/W4386262249) - **North-West University** *via OpenAlex*
+- [The Impact of Historical Consciousness and Literacy on Heritage Conservation: A Quantitative Study of High School Students in Ambarawa, Indonesia](https://openalex.org/W4394934489) - **State University of Semarang** *via OpenAlex*
+- [Face à l’urgence écologique, comment transformer les programmes des écoles et universités ?](https://theconversation.com/face-a-lurgence-ecologique-comment-transformer-les-programmes-des-ecoles-et-universites-190090) - **The Conversation**
+- [Teaching history in primary schools in Mauritius: Reflections on history teachers' pedagogical practices](https://openalex.org/W4320806532) - **North-West University** *via OpenAlex* 
+- [Mesurer le développement durable, est-ce possible ?](http://theconversation.com/mesurer-le-developpement-durable-est-ce-possible-195992) - **The Conversation**
+- [Humanités environnementales](https://books.openedition.org/psorbonne/84270) - **Éditions de la Sorbonne** *via OpenEdition Books*
