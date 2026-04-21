@@ -26,15 +26,16 @@ TOPICS = [
 
 HEADERS = {
     "Droit": "**Le droit face aux enjeux de la transition écologique : fondements, évolutions et perspectives**",
-    "Économie": "**L'économie à l'épreuve de la transition écologique : fondamentaux, outils et enjeux pour l'enseignement supérieur**",
-    "Géographie": "**Géographie et transition écologique : enjeux, échelles et stratégies**",
-    "Histoire": "**L'histoire au cœur de la transition écologique : enjeux, méthodes et perspectives**",
-    "Mathématiques": "**Mathématiques et transition écologique : enjeux, modélisation et perspectives**",
-    "Philosophie": "**Philosophie et transition écologique : enjeux épistémologiques et éthiques**",
+    "Économie": "**Économie et transition écologique : enjeux, modèles et perspectives pour l'enseignement supérieur**",
+    "Géographie": "**Synthèse sur la transition écologique et ses enjeux géographiques**",
+    "Histoire": "**L'histoire au prisme de la transition écologique : enjeux, trajectoires et épistémologie**",
+    "Mathématiques": "**Mathématiques et transition écologique : enjeux, modélisations et perspectives pédagogiques**",
+    "Philosophie": "**La philosophie au cœur de la transition écologique : enjeux épistémologiques et éthiques**",
     "Psychologie": "**Psychologie et transition écologique : enjeux, mécanismes et perspectives pédagogiques**",
 }
 
 MD_DIR = "md"
+
 
 def load_markdown(topic):
     md_path = os.path.join(MD_DIR, f"Microlearning - {topic}.md")
@@ -58,8 +59,9 @@ def load_markdown(topic):
             welearn = welearn.strip()
     return main, bibliography, welearn
 
+
 def main():
-    #st.set_page_config(layout="wide")
+    # st.set_page_config(layout="wide")
     st.title("Microlearning - Impacts et apports croisée des disciplines face à la TEDS")
     topic = st.selectbox("Choisissez un sujet :", TOPICS)
     if topic:
@@ -81,6 +83,7 @@ def main():
                 st.markdown(welearn, unsafe_allow_html=False)
             else:
                 st.info("Aucune ressource complémentaire trouvée pour ce sujet.")
+
 
 if __name__ == "__main__":
     main()
